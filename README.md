@@ -3,13 +3,14 @@ flicker-php
 
 Flicker Image Viewer built in Custom MVC Framework with basic PHP
 
+
 Instructions
 
-Provide an abstracted solution that demonstrates an understanding of business logic and presentation separation.
+•Provide an abstracted solution that demonstrates an understanding of business logic and presentation separation.
 
-Do not make use of any libraries that are not part of the standard language libraries.
+•Do not make use of any libraries that are not part of the standard language libraries.
 
-Do not make use of any pre-existing frameworks, such as CakePHP, etc.
+•Do not make use of any pre-existing frameworks, such as CakePHP, etc.
 
 Task
 
